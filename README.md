@@ -31,7 +31,7 @@
 ---
 
 ## 📈 GitHub Analytics
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=username_kamu&theme=tokyonight)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fardhanmaulana08&theme=tokyonight)
 
 ---
 
