@@ -3,9 +3,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardhanmaulana08&layout=compact&theme=tokyonight&border_radius=10" alt="Fardhan's Top Langs" />
 </p>
 
-# 👋 Hi, I'm Fardhan Maulana Yunandar
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🚀 Junior Web Developer | 👨‍💻 Problem Solver 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Halo!+I'm+Fardhan+Maulana;Web+Developer+Enthusiast;Problem+Solver+in+Logic;Welcome+to+my+Profile!" alt="Typing SVG" />
+  </a>
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -39,7 +43,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📈 GitHub Analytics
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=fardhanmaulana08&theme=tokyonight)
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fardhanmaulana08&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -65,4 +71,17 @@
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,php,mysql,bootstrap,git,pycharm,vscode,figma&perline=6" />
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=fardhanmaulana08&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="fardhanmaulana08" />
+</p>
+
 *"Code is poetry written in logic"*
