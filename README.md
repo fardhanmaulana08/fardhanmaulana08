@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fardhanmaulana08&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Fardhan's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardhanmaulana08&layout=compact&theme=tokyonight&border_radius=10" alt="Fardhan's Top Langs" />
+</p>
+
 # 👋 Hi, I'm Fardhan Maulana Yunandar
 
 ### 🚀 Junior Web Developer | 👨‍💻 Problem Solver 
@@ -45,15 +50,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 📊 Dynamic Statistics
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=fardhanmaulana08&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardhanmaulana08&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
 
 ### 🐍 Snake Contribution Map
 <picture>
