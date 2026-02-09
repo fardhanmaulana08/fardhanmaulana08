@@ -1,11 +1,4 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardhanmaulana08&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="Fardhan's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardhanmaulana08&layout=compact&theme=tokyonight&border_radius=10" alt="Fardhan's Top Langs" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Halo!+I'm+Fardhan+Maulana;Web+Developer+Enthusiast;Problem+Solver+in+Logic;Welcome+to+my+Profile!" alt="Typing SVG" />
   </a>
